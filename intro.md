@@ -39,3 +39,60 @@ The orchestration of cinnamaldehyde's creation within nature unfolds through a m
 
 
 
+### Preparation
+
+Cinnemaldehyde is commonly extracted from **natural sources**, particularly from cinnamon bark, which is rich in this aromatic compound. Here are a few methods, including the widely used steam distillation
+
+
+1. **Steam Distillation:**
+   - **Process:**
+     - Cinnamon bark is subjected to steam distillation, where steam is passed through the plant material.
+     - The steam vaporizes the essential oil in the cinnamon bark.
+     - The vapor, consisting of steam and essential oil, is then condensed back into a liquid.
+     - The liquid is collected, and the essential oil, including cinnamaldehyde, is separated from the water.
+
+2. **Solvent Extraction:**
+   - **Process:**
+     - Cinnamon bark is soaked in a solvent, typically hexane or ethanol.
+     - The solvent dissolves the essential oil, including cinnamaldehyde, from the plant material.
+     - The solvent is then evaporated, leaving behind the essential oil.
+
+3. **Cold Press Extraction:**
+   - **Process:**
+     - This method involves mechanically pressing the cinnamon bark to extract the essential oil.
+     - Cold pressing is typically used for citrus fruits, but it can also be employed for cinnamon bark.
+     - The extracted oil contains cinnamaldehyde along with other aromatic compounds.
+
+4. **CO2 Extraction:**
+   - **Process:**
+     - Carbon dioxide (CO2) is used as a solvent in this method.
+     - Under high pressure and low temperature, CO2 becomes a supercritical fluid with solvent properties.
+     - It is passed through the cinnamon bark to extract the essential oil.
+     - The supercritical fluid is then depressurized, and the essential oil is collected.
+
+5. **Hydrodistillation:**
+   - **Process:**
+     - Similar to steam distillation, but water is used instead of steam.
+     - Cinnamon bark is submerged in water and heated.
+     - The vaporized water carries the essential oil, including cinnamaldehyde, which is then condensed and collected.
+
+
+
+It can be also synthesized in the laboratory using various methods.
+
+1. **Aldol Condensation:**
+   - Cinnamaldehyde can be synthesized via aldol condensation, a reaction between benzaldehyde and acetaldehyde. The key steps involve the formation of an enolate ion from acetaldehyde, which then reacts with benzaldehyde, followed by dehydration to yield cinnamaldehyde.
+
+   - **Reaction Steps:**
+     - Formation of enolate ion: \( CH_3CHO \rightarrow CH_2CHO^- \)
+     - Aldol condensation: \( CH_2CHO^- + C_6H_5CHO \rightarrow C_6H_5CH=CHCHO + H_2O \)
+     - Dehydration: \( C_6H_5CH=CHCHO \rightarrow C_6H_5CH=CHCHO + H_2O \)
+
+2. **Perkin Reaction:**
+   - The Perkin reaction involves the condensation of an aromatic aldehyde with an acid anhydride in the presence of an alkali. In the case of cinnamaldehyde synthesis, benzaldehyde can be condensed with acetic anhydride. The reaction is catalyzed by sodium acetate.
+
+   - **Reaction Steps:**
+     - Formation of acyl anion: \( C_6H_5CHO + (CH_3CO)_2O \rightarrow C_6H_5CH(COCH_3)^-OAc + AcOH \)
+     - Intramolecular condensation: \( C_6H_5CH(COCH_3)^-OAc \rightarrow C_6H_5CH=CHCHO + CH_3COOH \)
+
+
