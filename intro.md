@@ -3,7 +3,7 @@
 
 ### Cinnamaldehyde
 
-**Cinnamaldehyde**, a captivating organic compound denoted by the chemical formula **C9 H8 O** or **C6 H5 CH=CH CHO**, stands as the aromatic cornerstone that imparts both flavor and fragrance to the beloved spice, cinnamon![1](https://www.tis-gdv.de/tis_e/ware/gewuerze/zimt/zimt.htm/). Found predominantly in its **trans (E) isomer** form, this pale yellow, viscous liquid is a prominent member of the **phenylpropanoid** family, naturally synthesized through the intricate **shikimate pathway**![2](https://www.wiley.com/en-us/Plant+Natural+Products%3A+Synthesis%2C+Biological+Functions+and+Practical+Applications-p-9783527682003).
+**Cinnamaldehyde**, a captivating organic compound denoted by the chemical formula **C9 H8 O** or **C6 H5 CH=CH CHO**, stands as the aromatic cornerstone that imparts both flavor and fragrance to the beloved spice, cinnamon[1](https://www.tis-gdv.de/tis_e/ware/gewuerze/zimt/zimt.htm/). Found predominantly in its **trans (E) isomer** form, this pale yellow, viscous liquid is a prominent member of the **phenylpropanoid** family, naturally synthesized through the intricate **shikimate pathway**![2](https://www.wiley.com/en-us/Plant+Natural+Products%3A+Synthesis%2C+Biological+Functions+and+Practical+Applications-p-9783527682003).
 
 Nestled within the bark of cinnamon trees and other botanical wonders belonging to the **genus Cinnamomum**, cinnamaldehyde takes center stage, comprising approximately 90% of the essential oil extracted from cinnamon bark![3](https://pubchem.ncbi.nlm.nih.gov/compound/637511). Its delicate aroma and distinctive taste have made it an indispensable component in culinary and perfumery realms alike.
 
