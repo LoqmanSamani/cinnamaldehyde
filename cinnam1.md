@@ -61,7 +61,7 @@ Cinnamaldehyde can be synthesized from l-phenylalanine and its biosynthesis requ
 ![6.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/6.png)
 
 
-3. [Construction and yield optimization of a cinnamylamine biosynthesis route in Escherichia coli](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-022-02199-7) - [3.pdf]()
+3. [Construction and yield optimization of a cinnamylamine biosynthesis route in Escherichia coli](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-022-02199-7) - [3.pdf](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/3.pdf)
 
 Cinnamylamine is an aromatic compound derived from l-phenylalanine, which is used in the synthesis of biologically active molecules, including drugs, and energetic materials.
 The ω-aminotransferase Cv-ωTA from Chromobacterium violaceum has been demonstrated to have high enzyme activity in the conversion of cinnamaldehyde to cinnamylamine. To prevent the preferable conversion of cinnamaldehyde to cinnamyl alcohol in wild-type Escherichia coli, the E. coli MG1655 strain with reduced aromatic alde-
@@ -89,4 +89,5 @@ We successfully improved the catalytic efficiency of transaminase through semi-r
 was less. We speculated that the conversion of cinnamic acid to cinnamaldehyde was the rate-limiting step. The conversion of cinnamic acid to cinnamaldehyde requires NADPH as a cofactor. Therefore, we investigated increasing the levels of intracellular NADPH to promote the
 conversion of cinnamic acid to cinnamaldehyde. To increase intracellular NADPH levels, we expressed an NADH kinase that converts NADH to NADPH.
 
-![7.png]()
+![7.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/7.png)
+
