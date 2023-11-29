@@ -33,10 +33,11 @@ gatus and Trichophyton rubrum [51], Coriolus versicolor and Laetiporus sulphurou
 Interestingly, commercial cinnamon preparations containing trans-cinnamaldehyde and o-methoxycinnamaldehyde also gave relief to three out of ﬁve HIV patients with oral candidiasis [62].
 Masamoto et al. [66] also found that cinnamaldehyde enhanced thermogenesis and inhibited heat diﬀusion.
 
+
 ![2.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/2.png)
 
 
-2. [Metabolic engineering of Escherichia coli for the production of cinnamaldehyde](https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-016-0415-9) - [2]()
+2. [Metabolic engineering of Escherichia coli for the production of cinnamaldehyde](https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-016-0415-9) - [2](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/2.pdf)
 
 Plant parasitic nematodes are harmful to agricultural crops and plants, and may cause severe yield losses. Cinnamaldehyde, a volatile, yellow liquid commonly used as a flavoring or food additive, is increasingly becoming a popular natural nematicide because of its high nematicidal activity and, there is a high demand for the development of a biological platform to produce cinnamaldehyde.
 In E. coli, cinnamaldehyde can be synthesized from intracellular l-phenylalanine, which requires the activities of three enzymes: phenylalanine-ammonia lyase (PAL), 4-coumarate:CoA ligase (4CL), and cinnamoyl-CoA reductase (CCR).
@@ -55,9 +56,9 @@ Cinnamaldehyde can be synthesized from l-phenylalanine and its biosynthesis requ
 (ii) acid-thiol ligation of cinnamic acid to cinnamoyl-CoA by 4-coumarate:CoA ligase (4CL, EC 6.2.1.12), and(iii) reduction of cinnamoyl-CoA to cinnamaldehyde by cinnamoyl-CoA reductase (CCR, EC 1.2.1.44) (Fig. 1a)
 [17–20]. PAL is a ubiquitous enzyme that can be found in many plants, fungi, and some bacteria, and it harbors diverse activities and specificities according to the origin of the enzyme [18, 21].
 
-![3_4.png]()
-![5.png]()
-![6.png]()
+![3_4.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/3_4.png)
+![5.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/5.png)
+![6.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/6.png)
 
 
 
