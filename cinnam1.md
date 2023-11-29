@@ -1,4 +1,4 @@
-1. [A review of cinnamaldehyde and its derivatives as antibacterial agents](https://www.sciencedirect.com/science/article/pii/S0367326X19317599?casa_token=viO1_kL9558AAAAA:FAZ0MmkWULZgXP_aHn_7QBWOmg0wWl8BChJ79LFIWvp8TArutHKVGxdUV0Go8n0oDm7dky2gyg) - [1](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/1.pdf)
+1. [A review of cinnamaldehyde and its derivatives as antibacterial agents](https://www.sciencedirect.com/science/article/pii/S0367326X19317599?casa_token=viO1_kL9558AAAAA:FAZ0MmkWULZgXP_aHn_7QBWOmg0wWl8BChJ79LFIWvp8TArutHKVGxdUV0Go8n0oDm7dky2gyg) - [1.pdf](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/1.pdf)
 
 Trans Cinnamaldehyde has been shown to possess substantial antimicrobial activity, as well as an array of other medicinal properties, and represents an intriguing hit compound from which a number of derivatives have been developed
 
@@ -37,7 +37,7 @@ Masamoto et al. [66] also found that cinnamaldehyde enhanced thermogenesis and i
 ![2.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/2.png)
 
 
-2. [Metabolic engineering of Escherichia coli for the production of cinnamaldehyde](https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-016-0415-9) - [2](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/2.pdf)
+2. [Metabolic engineering of Escherichia coli for the production of cinnamaldehyde](https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-016-0415-9) - [2.pdf](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/2.pdf)
 
 Plant parasitic nematodes are harmful to agricultural crops and plants, and may cause severe yield losses. Cinnamaldehyde, a volatile, yellow liquid commonly used as a flavoring or food additive, is increasingly becoming a popular natural nematicide because of its high nematicidal activity and, there is a high demand for the development of a biological platform to produce cinnamaldehyde.
 In E. coli, cinnamaldehyde can be synthesized from intracellular l-phenylalanine, which requires the activities of three enzymes: phenylalanine-ammonia lyase (PAL), 4-coumarate:CoA ligase (4CL), and cinnamoyl-CoA reductase (CCR).
@@ -61,4 +61,32 @@ Cinnamaldehyde can be synthesized from l-phenylalanine and its biosynthesis requ
 ![6.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/6.png)
 
 
+3. [Construction and yield optimization of a cinnamylamine biosynthesis route in Escherichia coli](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-022-02199-7) - [3.pdf]()
 
+Cinnamylamine is an aromatic compound derived from l-phenylalanine, which is used in the synthesis of biologically active molecules, including drugs, and energetic materials.
+The ω-aminotransferase Cv-ωTA from Chromobacterium violaceum has been demonstrated to have high enzyme activity in the conversion of cinnamaldehyde to cinnamylamine. To prevent the preferable conversion of cinnamaldehyde to cinnamyl alcohol in wild-type Escherichia coli, the E. coli MG1655 strain with reduced aromatic alde-
+hyde reduction (RARE) in which six aldehyde ketone reductase and alcohol dehydrogenase genes have been knocked out was employed. Then, the carboxylic acid reductase from Neurospora crassa (NcCAR) and phosphopantetheinyl transferase (PPTase) from E. coli were screened for a high conversion rate of cinnamic acid to cinnamaldehyde.
+We achieved the first biosynthesis of cinnamylamine using cinnamic acid as the precursor in E. coli using a combinatorial metabolic engineering strategy.
+
+The microbial production of aromatic compounds is an attractive method because it has the advantages of environmental friendliness, low cost, and feedstock renew ability, compared with other synthetic methods [1–6].
+The process of synthesizing cinnamylamine by chemical synthesis is relatively mature and has a high conversion rate. But the way to chemically synthesize cinnamylamine usually requires conditions such as high temperature, high
+pressure and metal catalysts. It has the disadvantages of high energy consumption, environmental pollution and low safety [13–15].
+
+Cinnamaldehyde has two biosynthetic pathways. In the first, phenylalanine lyase catalyzes the generation of cinnamic acid from phenylalanine that is produced by the shikimate pathway. Then, 4-coumaric acid: CoA ligase (4CL) catalyzes the formation of
+cinnamoyl-CoA from cinnamic acid, and then cinnamaldehyde is formed from cinnamoyl-CoA under catalysis by cinnamoyl CoA reductase (CCR) [16, 19–25]. In the other pathway, catalysis by carboxylic acid reductase (CAR) and phosphoubiquitin transferase (PPTase)
+reduces cinnamic acid into cinnamaldehyde [2, 17, 26–32].
+cinnamaldehyde has been synthetized in E. coli, Saccharomyces cerevisiae, and Corynebacterium glutamicum [16–18].
+
+NADH is a required cofactor for the conversion of cinnamaldehyde to cinnamyl alcohol, we believe that the intracellular NADH levels affect the accumulation of cinnamyl alcohol (Fig. 2A). The reducing power pro-
+vided by different carbon sources is also different, so we optimized the carbon source used in the fermentation medium. Three different fermentation media were compared for cinnamylamine production: LB with 2%
+glucose; LB with 2% xylose; and LB. Using LB medium supplemented with the precursor cinnamaldehyde for fermentation, the MRE-oE strain produced 11.03 mg/L cinnamylamine with minimal accumulation of cinnamyl alcohol (0.34 mg/L) after 4 h (Fig. 2E). In contrast,
+the addition of glucose or xylose resulted in less cinnamylamine production and excess cinnamyl alcohol accumulation. In addition, the intracellular content of NADH decreased sequentially in the MRE-oE strains cultured in LB with glucose, LB with xylose, and LB medium, which was consistent with the accumulated concentrations of
+cinnamyl alcohol (Additional file 5: Fig. S2). Excess glucose or xylose may provide redundant NADH reducing power for the cell, which may have caused the accumulation of cinnamyl alcohol.
+
+The reduction of cinnamic acid to cinnamaldehyde can be synthesized by a two-step catalytic reaction, through cinnamoyl-CoA, using 4-coumarate: CoA ligase (4CL) and cinnamyl-CoA reductase (CCR), or it can be catalyzed in one step by carboxylic acid reductase (CAR) (Fig. 3A).
+
+We successfully improved the catalytic efficiency of transaminase through semi-rational design. However, a large amount of cinnamic acid remained after the fermentation, and the accumulation of cinnamaldehyde
+was less. We speculated that the conversion of cinnamic acid to cinnamaldehyde was the rate-limiting step. The conversion of cinnamic acid to cinnamaldehyde requires NADPH as a cofactor. Therefore, we investigated increasing the levels of intracellular NADPH to promote the
+conversion of cinnamic acid to cinnamaldehyde. To increase intracellular NADPH levels, we expressed an NADH kinase that converts NADH to NADPH.
+
+![7.png]()
