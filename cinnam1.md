@@ -91,3 +91,40 @@ conversion of cinnamic acid to cinnamaldehyde. To increase intracellular NADPH l
 
 ![7.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/7.png)
 
+
+5. [Production of Cinnamaldehyde through Whole-Cell Bioconversion from trans-Cinnamic Acid Using Engineered Corynebacterium glutamicum](https://pubs.acs.org/doi/full/10.1021/acs.jafc.1c07398?casa_token=p49dMAwhzmwAAAAA%3AoDa4H1cyPpOAFKVLpn0SgF70MunmZnAG0xBeoPOIKbF0t7PuAnGcU6GKHjoIjiv9NXhvFTyG0gRgFkQ) - [5]()
+
+Cinnamaldehyde (CAD) has various applications in foods and pharmaceuticals and has gained prominence as a potent nematicide in agricultural research owing to its nematicidal activity. However, conventional methods of CAD production,
+including extraction from plants or organic chemical synthesis, are environmentally hazardous and limit its utilization for downstream applications. Here, we engineered Corynebacterium glutamicum as a whole-cell biocatalyst for the eﬃcient bioconversion
+of trans-cinnamic acid (t-CA) into CAD. An expression module of Mycobacterium phlei carboxylic acid reductase was constructed for the conversion of t-CA to CAD. Additionally, the putative dehydrogenase-related genes (dkgA, adhC, and cg1176) responsible for
+the conversion of CAD to cinnamyl alcohol were deleted from the engineered C. glutamicum strain to prevent the loss of CAD. Furthermore, as the conversion is NADPH-dependent, we investigated the conversion eﬃciency by exchanging the putative promoter region for the zwf gene, which encodes glucose-6-phosphate dehydrogenase, with a strong promoter to increase the
+NADPH pool. Finally, a bioconversion platform using C. glutamicum as a whole-cell biocatalyst was developed by deleting the vdh gene, which is involved in the reverse conversion of CAD to t-CA. Taken together, a 100% conversion yield of 1.1 g/L CAD from 1.2 g/L t-CA was obtained within 30 min.
+
+CAD has been found to inhibit food pathogens/food spoilage bacteria and prevent infection of plants by parasitic nematodes, one of the causes of crop productivity loss.1,2 Furthermore, in terms of medical applications, CAD has
+been reported to be eﬀective in inhibiting cancer cells that have metastasized to the lungs, ovaries, and central nervous system, as well as to promote exothermic and metabolic reactions that are important in downregulating obesity in humans and mice.3,4.
+CAD can be extracted from cinnamon plants; however, CAD production in plants is dependent on the plant’s life cycle, climatic conditions, and susceptibility to plant diseases. Meanwhile, organic chemical synthesis of CAD is
+cost-eﬀective and accounts for the majority of CAD production so far. Organic chemical synthesis is the primary method for CAD production, where a benzaldehyde derivative reacts with acetaldehyde under alkaline conditions; however, byproducts
+produced during the synthesis can act as factors causing environmental pollution and have the potential to cause safety issues in downstream applications.5
+
+compared to the L-Phe or trans-cinnamic acid (t-CA) production titers, the CAD production titer still needs to be improved. The low CAD production titer may be attributed to the unknown properties of endogenous genes that may be involved in the synthesis
+process from L-Phe to CAD, as well as optimal biosynthetic conditions that compete with each other in the metabolic pathway can inhibit high CAD production. Furthermore, the potential toxicity of CAD due to the reactivity of the aldehyde group hinders the accumulation of CAD during the cultivation.7
+
+C. glutamicum is regarded as a promising host for industrially relevant biotechnological production owing to the following characteristics: (i) it has a capability for high-cell-density growth resulting in a high yield
+of target products; (ii) being recognized as a safe host for production; (iii) recent advances in optimized genetic tools for C. glutamicum enable a wide range of industrial applications.11 As a result, many studies have recently reported a whole-cell
+biocatalyst design using C. glutamicum to produce various chemicals, including phenylpropanoid-derived com- pounds.12−17 We previously reported on the engineering of C. glutamicum for the biosynthesis of t-CA from L-Phe.18
+
+We ﬁrst constructed an expression system for the Mycobacterium phlei carboxylic acid reductase (MpCAR) gene for the direct conversion of t-CA to CAD (Figure 2A). The putative genes involved in the
+conversion of CAD to cinnamyl alcohol (CAL) were then deleted in C. glutamicum in order to increase the CAD bioconversion yield. Furthermore, we examined the conversion eﬃciency by increasing the pool of NADPH, a cofactor required for t-CA conversion. Finally, the vdh gene was deleted
+to prevent the reverse conversion of the produced CAD to t-CA, and the bioconversion process with C. glutamicum as a whole-cell biocatalyst was developed with high CAD conversion eﬃciency.
+
+Whole-Cell Bioconversion in a Bioreactor. C. glutamicum strains were seeded in a BHI medium. After cultivation for 12 h, the cells were transferred into 200 mL of modiﬁed CGXII medium in four
+250 mL baﬄed ﬂasks. The seed culture was poured into 1.8 L of fresh modiﬁed CGXII medium in a 5 L jar bioreactor (BioCNS, Daejeon, Republic of Korea). The cultivation temperature was set at 30 °C until the cells reached the stationary phase. While the cells were
+growing up to the stationary phase, the pH was controlled at pH 7 with 20% (v/v) sulfuric acid and 5 M ammonia solution. After the cells reached the stationary phase, i.e., after 8 h of cultivation, 500 mL of fermentation broth containing 6 g/L of t-CA23 was added to the
+cells for the conversion of t-CA to CAD. The fermentation broth containing t-CA was prepared as a cell-free substrate in the same manner as described above. All conversion reactions were performed at 200 rpm and 30 °C.
+
+
+![8.png]()
+![9.png]()
+![10.png]()
+![11png]()
+![12.png]()
