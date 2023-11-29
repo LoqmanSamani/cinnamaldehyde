@@ -92,7 +92,23 @@ conversion of cinnamic acid to cinnamaldehyde. To increase intracellular NADPH l
 ![7.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/7.png)
 
 
-5. [Production of Cinnamaldehyde through Whole-Cell Bioconversion from trans-Cinnamic Acid Using Engineered Corynebacterium glutamicum](https://pubs.acs.org/doi/full/10.1021/acs.jafc.1c07398?casa_token=p49dMAwhzmwAAAAA%3AoDa4H1cyPpOAFKVLpn0SgF70MunmZnAG0xBeoPOIKbF0t7PuAnGcU6GKHjoIjiv9NXhvFTyG0gRgFkQ) - [5]()
+
+
+4. ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. [Production of Cinnamaldehyde through Whole-Cell Bioconversion from trans-Cinnamic Acid Using Engineered Corynebacterium glutamicum](https://pubs.acs.org/doi/full/10.1021/acs.jafc.1c07398?casa_token=p49dMAwhzmwAAAAA%3AoDa4H1cyPpOAFKVLpn0SgF70MunmZnAG0xBeoPOIKbF0t7PuAnGcU6GKHjoIjiv9NXhvFTyG0gRgFkQ) - [5](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/4.pdf)
 
 Cinnamaldehyde (CAD) has various applications in foods and pharmaceuticals and has gained prominence as a potent nematicide in agricultural research owing to its nematicidal activity. However, conventional methods of CAD production,
 including extraction from plants or organic chemical synthesis, are environmentally hazardous and limit its utilization for downstream applications. Here, we engineered Corynebacterium glutamicum as a whole-cell biocatalyst for the eﬃcient bioconversion
@@ -123,8 +139,8 @@ growing up to the stationary phase, the pH was controlled at pH 7 with 20% (v/v)
 cells for the conversion of t-CA to CAD. The fermentation broth containing t-CA was prepared as a cell-free substrate in the same manner as described above. All conversion reactions were performed at 200 rpm and 30 °C.
 
 
-![8.png]()
-![9.png]()
-![10.png]()
-![11png]()
-![12.png]()
+![8.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/8.png)
+![9.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/9.png)
+![10.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/10.png)
+![11png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/11.png)
+![12.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/12.png)
