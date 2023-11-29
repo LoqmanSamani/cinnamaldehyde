@@ -36,8 +36,28 @@ Masamoto et al. [66] also found that cinnamaldehyde enhanced thermogenesis and i
 ![2.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/2.png)
 
 
+2. [Metabolic engineering of Escherichia coli for the production of cinnamaldehyde](https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-016-0415-9) - [2]()
 
+Plant parasitic nematodes are harmful to agricultural crops and plants, and may cause severe yield losses. Cinnamaldehyde, a volatile, yellow liquid commonly used as a flavoring or food additive, is increasingly becoming a popular natural nematicide because of its high nematicidal activity and, there is a high demand for the development of a biological platform to produce cinnamaldehyde.
+In E. coli, cinnamaldehyde can be synthesized from intracellular l-phenylalanine, which requires the activities of three enzymes: phenylalanine-ammonia lyase (PAL), 4-coumarate:CoA ligase (4CL), and cinnamoyl-CoA reductase (CCR).
 
+Nematicides are chemical pesticides that eliminate parasitic nematodes on plants. They can be employed with success, although currently there are several disadvantages: (i) it is necessary to pay particular attention to the chemical pesticide used in
+many susceptible plants and crops, (ii) non-selectivity of the pesticide may occasionally cause elimination of other organisms in addition to nematodes, and (iii) if the pathogen remains after treatment, the damage may be severely exacerbated [8, 9].
+the specific molecule cinnamaldehyde, which is present in cinnamon bark oil, is attractive as a pesticide because of its potent nematicidal activity [12, 13].
+
+Cinnamaldehyde is currently obtained by chemical synthesis from benzaldehyde and acetaldehyde or by direct extraction from cinnamon bark oil. However, there are disadvantages with these methods: (i) it is difficult to separate other cinnamalde-
+hyde derivatives and stereoisomers during its chemical production, and (ii) extraction requires the logging and consumption of plants [16]. Therefore, there is an urgent need for the development of an eco-friendly and efficient biological system to produce cinnamaldehyde.
+In this study, we sought to engineer Escherichia coli as a microbial cell factory for the production of cinnamaldehyde by construction of the biosynthesis pathway for the production of cinnamaldehyde. Based
+on in vitro assays of enzyme activities, three biosynthetic enzymes, phenylalanine-ammonia lyase (PAL), 4-coumarate:CoA ligase (4CL), and cinnamoyl-CoA reductase (CCR) were cloned into gene expression constructs. We also manipulated metabolic pathways in E.
+coli to increase the intracellular pool of l-phenylalanine, which is the main precursor of cinnamaldehyde.
+
+Cinnamaldehyde can be synthesized from l-phenylalanine and its biosynthesis requires three enzymatic reactions: (i) deamination of l-phenylalanine into cinnamic acid by phenylalanine-ammonia lyase (PAL, EC 4.3.1.24),
+(ii) acid-thiol ligation of cinnamic acid to cinnamoyl-CoA by 4-coumarate:CoA ligase (4CL, EC 6.2.1.12), and(iii) reduction of cinnamoyl-CoA to cinnamaldehyde by cinnamoyl-CoA reductase (CCR, EC 1.2.1.44) (Fig. 1a)
+[17–20]. PAL is a ubiquitous enzyme that can be found in many plants, fungi, and some bacteria, and it harbors diverse activities and specificities according to the origin of the enzyme [18, 21].
+
+![3_4.png]()
+![5.png]()
+![6.png]()
 
 
 
