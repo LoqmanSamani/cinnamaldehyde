@@ -1,4 +1,4 @@
-1. [A review of cinnamaldehyde and its derivatives as antibacterial agents]() - [1]()
+1. [A review of cinnamaldehyde and its derivatives as antibacterial agents](https://www.sciencedirect.com/science/article/pii/S0367326X19317599?casa_token=viO1_kL9558AAAAA:FAZ0MmkWULZgXP_aHn_7QBWOmg0wWl8BChJ79LFIWvp8TArutHKVGxdUV0Go8n0oDm7dky2gyg) - [1](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/1.pdf)
 
 Trans Cinnamaldehyde has been shown to possess substantial antimicrobial activity, as well as an array of other medicinal properties, and represents an intriguing hit compound from which a number of derivatives have been developed
 
@@ -32,6 +32,10 @@ gatus and Trichophyton rubrum [51], Coriolus versicolor and Laetiporus sulphurou
 [55,56]. Interestingly, cis-cinnamaldehyde, the geometrical isomer of trans-cinnamaldehyde, has also been shown to possess antifungal properties [57].
 Interestingly, commercial cinnamon preparations containing trans-cinnamaldehyde and o-methoxycinnamaldehyde also gave relief to three out of ﬁve HIV patients with oral candidiasis [62].
 Masamoto et al. [66] also found that cinnamaldehyde enhanced thermogenesis and inhibited heat diﬀusion.
+
+![2.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/2.png)
+
+
 
 
 
