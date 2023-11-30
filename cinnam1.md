@@ -94,21 +94,35 @@ conversion of cinnamic acid to cinnamaldehyde. To increase intracellular NADPH l
 
 
 
-4. ...
+4. [Production of trans‑cinnamic acid by whole‑cell bioconversion from l‑phenylalanine in engineered Corynebacterium glutamicum](https://link.springer.com/article/10.1186/s12934-021-01631-1) - [4.pdf]()
+
+An expression module based on a phenylalanine ammonia lyase-encoding gene from Streptomyces maritimus (SmPAL), which mediates the conversion of l-Phe into t-CA, was constructed in C. glutamicum. Using the strong
+promoter ­PH36 and ribosome binding site (RBS) (in front of gene 10 of the T7 phage), and a high-copy number plasmid, SmPAL could be expressed to levels as high as 39.1% of the total proteins in C. glutamicum. Next, to improve t-CA
+production at an industrial scale, reaction conditions including temperature and pH were optimized; t-CA production reached up to 6.7 mM/h in a bioreactor under optimal conditions (50 °C and pH 8.5, using NaOH as base solution).
+Finally, a recycling system was developed by coupling membrane filtration with the bioreactor, and the engineered C.glutamicum successfully produced 13.7 mM of t-CA (24.3 g) from 18.2 mM of l-Phe (36 g) and thus with a yield of 75% (0.75 mol/mol) through repetitive supplementation.
+
+t-CA can be isolated from plants; however, this method has not yet overcome the low yield because it is difficult to optimize environmental and geographic conditions [7]. In addition, t-CA
+can be synthesized by the organic chemical synthesis method: a condensation reaction of acetic anhydride and benzaldehyde in the presence of sodium acetate [8–10]. Although the chemical synthesis accounts for the largest portion of t-CA production so far, it is an energy intensive and non-green process because it requires high temperature condition and fossil resources [11, 12].
+
+Naturally, t-CA can be synthesized from l-phenylalanine (l-Phe) by phenylalanine ammonia lyase (PAL, EC 4.3.1.5) [13]. Generally, compared to the chemical synthesis-based
+production process, the production of whole-cell biocatalyst-based chemicals using microorganisms offers several advantages: (i) environmentally friendly production,
+(ii) high regioselectivity, and (iii) cofactor regeneration for multi-step reactions [20]. However, to achieve a high production yield in whole-cell biocatalyst-based production, a microorganism that can satisfy the following con-
+ditions is required: (i) being recognized as a safe host for production, (ii) high-cell density cultures, (iii) the ability to easily induce high expression of the genes coding for heterologous proteins, and (iv) maintenance of cell
+viability during harsh conditions, e.g., changes in temperature or pH [21, 22].
+
+In an earlier study, we engineered E. coli for the production of t-CA and obtained up to 6.9 g/L of t-CA by fed-batch cultivation with an engineered strain [19]. Although this titer
+was the highest ever recorded, the productivity was not high (0.138 g/L/h) because of the long cultivation (86 h)[19]. For improving this time, a modification in the reaction temperature was considered. As shown here, SmPAL
+showed its highest activity at 50 °C; an activity four times higher than that at 30 °C (Fig. 3). Unfortunately, E. coli and most bacterial hosts cannot be cultivated at 50 °C
+but are generally grown between 30 and 37 °C at which the activity of the PAL enzyme is not high enough. This temperature difference is one of the hurdles to be solved in the production of t-CA using microorganisms. In con-
+trast to E. coli, C. glutamicum has a very rigid cell wall structure, which consists of mycolic acid, arabinogalactan, and a peptidoglycan layer [43]. Due to this distinct structure, C. glutamicum is known for its high tolerance
+to various chemicals and extreme conditions such as high temperature, pH, and detergents, so it has served as a robust and potential platform for the production of toxic chemicals and production under extreme conditions[44–46].
 
 
+![13.png]()
+![14.png]()
 
 
-
-
-
-
-
-
-
-
-
-5. [Production of Cinnamaldehyde through Whole-Cell Bioconversion from trans-Cinnamic Acid Using Engineered Corynebacterium glutamicum](https://pubs.acs.org/doi/full/10.1021/acs.jafc.1c07398?casa_token=p49dMAwhzmwAAAAA%3AoDa4H1cyPpOAFKVLpn0SgF70MunmZnAG0xBeoPOIKbF0t7PuAnGcU6GKHjoIjiv9NXhvFTyG0gRgFkQ) - [5](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/4.pdf)
+5. [Production of Cinnamaldehyde through Whole-Cell Bioconversion from trans-Cinnamic Acid Using Engineered Corynebacterium glutamicum](https://pubs.acs.org/doi/full/10.1021/acs.jafc.1c07398?casa_token=p49dMAwhzmwAAAAA%3AoDa4H1cyPpOAFKVLpn0SgF70MunmZnAG0xBeoPOIKbF0t7PuAnGcU6GKHjoIjiv9NXhvFTyG0gRgFkQ) - [5.pdf](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/5.pdf)
 
 Cinnamaldehyde (CAD) has various applications in foods and pharmaceuticals and has gained prominence as a potent nematicide in agricultural research owing to its nematicidal activity. However, conventional methods of CAD production,
 including extraction from plants or organic chemical synthesis, are environmentally hazardous and limit its utilization for downstream applications. Here, we engineered Corynebacterium glutamicum as a whole-cell biocatalyst for the eﬃcient bioconversion
