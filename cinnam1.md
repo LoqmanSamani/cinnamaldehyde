@@ -262,7 +262,7 @@ acid on (Eichenberger et al. 2017).
 ![18.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/18.png)
 
 
-8. [De novo biosynthesis of trans-cinnamic acid derivatives in Saccharomyces cerevisiae](https://link.springer.com/article/10.1007/s00253-017-8220-x) - [8.pdf]()
+8. [De novo biosynthesis of trans-cinnamic acid derivatives in Saccharomyces cerevisiae](https://link.springer.com/article/10.1007/s00253-017-8220-x) - [8.pdf](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/8.pdf)
 
 we engineered the yeast Saccharomyces cerevisiae as a microbial host to produce trans-cinnamic acid derivatives cinnamaldehyde,
 cinnamyl alcohol, and hydrocinnamyl alcohol, from externally added trans-cinnamic acid or de novo from glucose
@@ -273,7 +273,11 @@ carboxylic acid reductase (acar) from Nocardia sp., and
 phosphopantetheinyl transferase (entD) from Escherichia
 coli, together with endogenous alcohol dehydrogenases.
 
-![19.png]()
+![19.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/19.png)
+
+9. [Simple phenylpropanoids: recent advances in biological activities, biosynthetic pathways, and microbial production]() - [9.pdf]()
+
+
 
 
 
