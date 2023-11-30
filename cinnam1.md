@@ -94,7 +94,7 @@ conversion of cinnamic acid to cinnamaldehyde. To increase intracellular NADPH l
 
 
 
-4. [Production of trans‑cinnamic acid by whole‑cell bioconversion from l‑phenylalanine in engineered Corynebacterium glutamicum](https://link.springer.com/article/10.1186/s12934-021-01631-1) - [4.pdf]()
+4. [Production of trans‑cinnamic acid by whole‑cell bioconversion from l‑phenylalanine in engineered Corynebacterium glutamicum](https://link.springer.com/article/10.1186/s12934-021-01631-1) - [4.pdf](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/4.pdf)
 
 An expression module based on a phenylalanine ammonia lyase-encoding gene from Streptomyces maritimus (SmPAL), which mediates the conversion of l-Phe into t-CA, was constructed in C. glutamicum. Using the strong
 promoter ­PH36 and ribosome binding site (RBS) (in front of gene 10 of the T7 phage), and a high-copy number plasmid, SmPAL could be expressed to levels as high as 39.1% of the total proteins in C. glutamicum. Next, to improve t-CA
@@ -118,8 +118,8 @@ trast to E. coli, C. glutamicum has a very rigid cell wall structure, which cons
 to various chemicals and extreme conditions such as high temperature, pH, and detergents, so it has served as a robust and potential platform for the production of toxic chemicals and production under extreme conditions[44–46].
 
 
-![13.png]()
-![14.png]()
+![13.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/13.png)
+![14.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/14.png)
 
 
 5. [Production of Cinnamaldehyde through Whole-Cell Bioconversion from trans-Cinnamic Acid Using Engineered Corynebacterium glutamicum](https://pubs.acs.org/doi/full/10.1021/acs.jafc.1c07398?casa_token=p49dMAwhzmwAAAAA%3AoDa4H1cyPpOAFKVLpn0SgF70MunmZnAG0xBeoPOIKbF0t7PuAnGcU6GKHjoIjiv9NXhvFTyG0gRgFkQ) - [5.pdf](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/5.pdf)
