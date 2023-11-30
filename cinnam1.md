@@ -176,7 +176,7 @@ sources requires at least two parallel approaches: pathway construction for prod
 
 ![15.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/15.png)
 
-7. [Pathway engineering for the production of heterologous aromatic chemicals and their derivatives in Saccharomyces cerevisiae: bioconversion from glucose](https://academic.oup.com/femsyr/article/17/4/fox035/3861259) - [7.pdf]()
+7. [Pathway engineering for the production of heterologous aromatic chemicals and their derivatives in Saccharomyces cerevisiae: bioconversion from glucose](https://academic.oup.com/femsyr/article/17/4/fox035/3861259) - [7.pdf](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/7.pdf)
 
 Saccharomyces cerevisiae has been extensively engineered for optimising its performance as a microbial cell factory to
 produce valuable aromatic compounds and their derivatives as bulk and fine chemicals. The production of heterologous
@@ -257,7 +257,9 @@ The set of reactions that allowed for the production of phloretin
 from p-coumaric acid was implemented from trans-cinnamic
 acid on (Eichenberger et al. 2017).
 
-![16.png]()
-![17.png]()
-![18.png]()
+![16.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/16.png)
+![17.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/17.png)
+![18.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/18.png)
+
+
 
