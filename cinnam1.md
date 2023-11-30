@@ -173,4 +173,91 @@ increased toxicity in microorganisms. Given the high-value applications and larg
 Because most microbes do not naturally accumulate aldehydes,
 microbial production of these molecules from simple carbon
 sources requires at least two parallel approaches: pathway construction for product generation and strain engineering for product accumulation.
+
 ![15.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/15.png)
+
+7. [Pathway engineering for the production of heterologous aromatic chemicals and their derivatives in Saccharomyces cerevisiae: bioconversion from glucose](https://academic.oup.com/femsyr/article/17/4/fox035/3861259) - [7.pdf]()
+
+Saccharomyces cerevisiae has been extensively engineered for optimising its performance as a microbial cell factory to
+produce valuable aromatic compounds and their derivatives as bulk and fine chemicals. The production of heterologous
+aromatic molecules in yeast is achieved via engineering of the aromatic amino acid biosynthetic pathway. This pathway is
+connected to two pathways of the central carbon metabolism, and is highly regulated at the gene and protein level.
+the shikimate pathway and the tyrosine and phenylalanine
+biosynthetic pathway of S. cerevisiae for biosynthesis of aromatic chemicals and their derivatives from glucose.
+
+In S. cerevisiae, aromatic compounds are synthesised via
+the aromatic amino acid biosynthetic pathway (AAP) (Braus
+1991). This highly regulated pathway is a central node of yeast
+metabolism and feeds several other pathways (i.e. quinone, folate and Ehrlich pathways). Its core constitutes of the shikimate
+pathway, from which two main pathways for amino acid production branch out: the tryptophan, and the tyrosine and phenylalanine branch (Fig. 1).
+
+The enzyme 3-deoxy-D-arabinoheptulosonate 7-phosphate
+(DAHP) synthase catalyses the initiating step into the AAP. It
+facilitates the condensation of phosphoenolpyruvate (PEP) and
+erythrose-4-phosphate (E4P), thereby releasing phosphate. PEP
+is an intermediate of the lower part of glycolysis, whereas E4P
+is derived from the pentose phosphate pathway (PPP) (Fig. 1).
+However, on glucose under aerobic conditions, the available
+carbon flux to E4P is significantly lower than the flux to PEP
+(Vaseghi et al. 1999). Therefore, balancing the ratio of the two
+substrates and increasing their availability seems to be a
+promising step towards increasing the flux into the AAP.
+Using flux balance analysis, Curran et al. (2013) could show
+that optimizing the availability of E4P requires a shift in the
+PPP. Normally, flux enters into the PPP through the glucose-6-
+phosphate dehydrogenase encoded by ZWF1, reducing the maximum theoretical carbon yield due to the release of CO2 in the
+6-phosphogluconate dehydrogenase reaction. E4P is then produced by transaldolase in the non-oxidative part of the PPP,
+which is the limiting step of the pathway (Becker and Boles
+2003). Moreover, in the next step, transketolase rather consumes
+E4P and converts it together with xylulose-5-phosphate (X5P)
+to produce fructose-6-phosphate (F6P) and glyceraldehyde-3-
+phosphate (G3P). Therefore, in order to optimise synthesis of
+E4P, ZWF1 was deleted and TKL1-encoding transketolase was
+overexpressed to reverse flux from the glycolytic intermediates
+F6P and G3P to E4P and X5P (Fig. 1). This resulted in an up
+to 7-fold increase of the flux into the AAP (Deaner and Alper
+2017). Another approach to improve the flux towards the AAP is
+the overexpression of transaldolase (Tal1) and enolase 2 (Eno2)
+(Mao et al. 2017).
+
+The shikimic acid pathway directly provides precursors for heterologous products, such as vanillin and muconic acid. Furthermore, some of the seven reaction steps of the pathway are targets for improvement of downstream pathways and product yields
+The first enzymatic step of the pathway is catalysed by
+DAHP synthase, which condenses E4P and PEP into DAHP. ARO3
+and ARO4 encode for two DAHP synthase isoforms in yeast.
+The DAHP synthase reaction represents an important target in
+metabolic engineering approaches. The two protein isoforms
+Aro3 and Aro4 catalysing this reaction are feedback inhibitable
+by phenylalanine and tyrosine, respectively (Braus 1991).
+The following enzymatic steps in the pathway are exerted
+by the pentafunctional enzyme Arom, encoded by ARO1. Arom
+converts DAHP into 5-enolpyruvylshikimate-3-phosphate (EPSP)
+through five reactions, which include the cyclisation of the
+molecule, generating 3-dehydroquinate (3-DHQ), and introduc-
+tion of the first double bond of the aromatic ring, forming the intermediate 3-dehydroshikimate (3-DHS) (Fig. 2). 3-DHS is converted to shikimate in an NADPH-dependent reaction. Subsequently, shikimate-3-phosphate is formed from shikimate and
+ATP. In the last reaction step, EPSP is produced from shikimate-3-phosphate and PEP. Due to its five catalytic domains (C-, E-,
+D-, B- and A-domain), Arom is considered as a natural scaffold
+for substrate channelling (Duncan, Edwards and Coggims 1987).
+The seventh and last step of the shikimate pathway is catalysed by a chorismate synthase, encoded by ARO2. Aro2, which
+requires the cofactor flavin mononucleotide (FMN), acts by removing a phosphate and introducing the second double bond
+of the aromatic ring, converting EPSP into chorismate (Jones,
+Reusser and Braus 1991; Quevillon-Cheruel et al. 2004).
+
+Focusing now solely on the phenylalanine branch, another series of valuable fine and bulk chemicals was produced via
+metabolic engineering in yeast. These compounds, namely
+pinocembrin DHC, styrene, cinnamaldehyde, cinnamyl alcohol
+and hydrocinnamyl alcohol find applications in the medical
+field, like pinocembrin DHC and cinnamaldehyde; in the cosmetic industry, like cinnamaldehyde, cinnamyl alcohol and hydrocinnamyl alcohol; and in the plastic production field, like
+styrene.
+A shared entry step for the biosynthesis of these compounds
+exists. It is catalysed by PALs, converting phenylalanine to transcinnamic acid. This step was achieved by several groups, as
+already mentioned in this minireview (Koopman et al. 2012;
+McKenna et al. 2014b; Gottardi et al. 2017).
+Pinocembrin DHC is part of the previously described DHCs.
+The set of reactions that allowed for the production of phloretin
+from p-coumaric acid was implemented from trans-cinnamic
+acid on (Eichenberger et al. 2017).
+
+![16.png]()
+![17.png]()
+![18.png]()
+
