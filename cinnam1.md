@@ -262,4 +262,18 @@ acid on (Eichenberger et al. 2017).
 ![18.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/18.png)
 
 
+8. [De novo biosynthesis of trans-cinnamic acid derivatives in Saccharomyces cerevisiae](https://link.springer.com/article/10.1007/s00253-017-8220-x) - [8.pdf]()
+
+we engineered the yeast Saccharomyces cerevisiae as a microbial host to produce trans-cinnamic acid derivatives cinnamaldehyde,
+cinnamyl alcohol, and hydrocinnamyl alcohol, from externally added trans-cinnamic acid or de novo from glucose
+as a carbon source. We show that the desired products can
+be de novo synthesized in S. cerevisiae via the heterologous overexpression of the genes encoding phenylalanine
+ammonia lyase 2 from Arabidopsis thaliana (AtPAL2), aryl
+carboxylic acid reductase (acar) from Nocardia sp., and
+phosphopantetheinyl transferase (entD) from Escherichia
+coli, together with endogenous alcohol dehydrogenases.
+
+![19.png]()
+
+
 
