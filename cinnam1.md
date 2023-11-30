@@ -160,7 +160,7 @@ cells for the conversion of t-CA to CAD. The fermentation broth containing t-CA 
 ![12.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/12.png)
 
 
-6. [Microbial Engineering for Aldehyde Synthesis](https://journals.asm.org/doi/full/10.1128/aem.03319-14?casa_token=V_BaMNISzz8AAAAA%3AvJW_Ja6IfgCqfWXBTkj18Rn3wORidDli9_gsj7vNZsvKpO7uJ6llp4Fg5mUuXsLeNdUlTTyYEK1Mlc8) - [6.pdf]()
+6. [Microbial Engineering for Aldehyde Synthesis](https://journals.asm.org/doi/full/10.1128/aem.03319-14?casa_token=V_BaMNISzz8AAAAA%3AvJW_Ja6IfgCqfWXBTkj18Rn3wORidDli9_gsj7vNZsvKpO7uJ6llp4Fg5mUuXsLeNdUlTTyYEK1Mlc8) - [6.pdf](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/6.pdf)
 
 
 Several aldehydes are responsible for flavors and fragrances present in plants, but aldehydes are not known to accumulate in most natural microorganisms. In many cases, microbial production of aldehydes presents an attractive alternative to extraction from plants or chemical synthesis.
@@ -173,4 +173,4 @@ increased toxicity in microorganisms. Given the high-value applications and larg
 Because most microbes do not naturally accumulate aldehydes,
 microbial production of these molecules from simple carbon
 sources requires at least two parallel approaches: pathway construction for product generation and strain engineering for product accumulation.
-![15.png]()
+![15.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/15.png)
