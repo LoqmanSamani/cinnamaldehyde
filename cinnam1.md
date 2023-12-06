@@ -277,6 +277,398 @@ coli, together with endogenous alcohol dehydrogenases.
 
 9. [Simple phenylpropanoids: recent advances in biological activities, biosynthetic pathways, and microbial production]() - [9.pdf]()
 
+Simple phenylpropanoids are a group of secondary metabolites
+comprising a phenyl ring linked with a three-carbon side chain
+(C6–C3). In plants, they are primarily derived from the aromatic
+amino acid L-phenylalanine (L-Phe).1 These compounds can be
+classied into several subcategories associated with changes in
+the substituent on the benzene ring and the position of the
+propenyl double bond, such as phenylpropanoic acids (cin-
+namic and hydroxycinnamic acids), phenylpropanoic alde-
+hydes, phenylpropanols, phenylpropene and simple coumarins.2
+Plants synthesize approximately 10 gigatons of phenyl-
+propanoid molecules each year, which constitute approxi-
+mately 20% of the total carbon in the terrestrial biosphere.7
+Compared to plant extraction
+and chemical synthesis, microbial production is a promising
+alternative, not only for its much shorter production periods but
+also for being safer, low-cost, and environmentally friendly.
+However, despite the tremendous progress
+made, several urgent challenges remain in advancing microbial
+engineering as a general approach for the biosynthesis of simple
+phenylpropanoids, including (1) non-specicity and ineﬃcient
+cofactor supply of enzymes, (2) unbalanced metabolic ux
+between glycolysis and pentose phosphate pathway (PPP), (3) low
+cell performance, and (4) metabolic promiscuity in single cells.
+Due to their perfuming, anti-
+oxidant and ultraviolet (UV) protection properties, trans-cin-
+namic acid (t-CA) and its derivatives, such as cinnamyl
+aldehyde, cinnamyl alcohol, cinnamyl alcohol, have been widely
+used in cosmetics for decades.21
+
+Simple phenylpropanoids, such as t-
+CA, cinnamyl alcohol, have been utilized as functional ingre-
+dients for natural food preservatives because of their antimi-
+crobial activities.25,26 Cinnamyl aldehyde is the most potent
+antimicrobial substance in cinnamon, and is active against
+multiple bacteria, such as Staphylococcus aureus, Bacillus sub-
+tilis, Escherichia coli, Listeria monocytogenes, and Salmonella
+anatum, as well as many fungi.27 trans-Cinnamyl aldehyde is
+identied as Generally Recognized as Safe by the United States
+Food and Drug Administration, and has not only served as
+a fungicide in agriculture, but is also added into edible anti-
+microbial lms for inhibition of foodborne pathogens.28
+CaA has been shown to relieve chronic infections induced
+by microorganisms (bacteria, fungi, and viruses), mainly
+through membrane disruption and depolarisation, by
+damaging DNA and protein structures, by downregulating
+virulence genes, and by inhibiting cellular proliferation.29
+a mouse experiment evaluated the anti-
+viral eﬀects of t-CA against Zika virus.31 These plant-derived
+compounds have the potential to be used as a nutraceutical or
+drug candidate against pandemics.
+t-CA and its deriv-
+atives have benecial eﬀects on diabetes and its complications. It
+regulates glucose metabolism by improving glucose tolerance
+and stimulating insulin secretion. Cinnamic aldehydes are
+eﬀective in improving insulin sensitivity and mitochondrial
+function.33
+Treatment with CaA
+has been reported to selectively remove induced pluripotent
+stem cells (iPSCs) without aﬀecting normal and iPSC-derived
+diﬀerentiated cells, indicating that it can be used as a safe
+and economical anti-teratoma agent in iPSCs-based therapy.41
+Hydroxycinnamic acids can show
+neuroprotective and pro-cognitive eﬀects by modulating
+oxidant machinery and inammatory status.18 Hydroxycin-
+namic acids can also activate autophagy and limit brain
+damage by breaking down misfolded proteins and dysfunc-
+tional mitochondria.47
+The
+mechanisms of t-CA and cinnamic aldehyde on ameliorating
+glucolipid metabolism are similar in mouse experiments and
+can improve mitochondrial function, reduce serotonin content
+and upregulate autophagy-mediated lipid clearance.55
+
+
+![20.png]()
+
+The biosynthesis of simple phenyl-
+propanoids are derived from the aromatic amino acids (AAAs) L-
+Phe and L-tyrosine (L-Tyr) in plants (Fig. 2). As nodes connecting
+primary and secondary metabolism, L-Phe and L-Tyr are syn-
+thesised from chorismate (CHA) via the AAA pathway. The
+condensation of two core precursors, phosphoenolpyruvate
+(PEP), derived from glycolysis, and erythrose 4-phosphate (E4P),
+derived from the pentose phosphate pathway (PPP), leads to
+a metabolic ux into the shikimate pathway for CHA synthesis.
+Therefore, the biosynthetic pathways of simple phenyl-
+propanoids can be divided into primary metabolism and plant-
+specic phenylpropanoid metabolism. Except for plant-specic
+CO2 xation (shown in green in Fig. 2), the AAA biosynthetic
+pathway is relatively conserved in plants and microorganisms
+(shown in red in Fig. 2). Biosynthetic pathways of simple phe-
+nylpropanoids and their derived complex phenylpropanoids
+usually exist in plants.
+Plants absorb carbon dioxide to produce sugar, whereas
+glucose is the most direct carbon source for cellular biomass in
+bacteria and fungi. Central carbon metabolism converts glucose
+to PEP and E4P via glycolysis and nonoxidative steps in the PPP,
+respectively. Notably, PPP is related to the redox cofactor
+NADPH, which is critical for several downstream enzymes and
+the normal cellular energy metabolism.66,67 The pathway con-
+necting central carbon metabolism and the AAA network is the
+shikimate pathway, which comprises seven enzymatic reactions
+and is ubiquitous in plants, fungi and bacteria.68 As the rst
+committed step, studies have shown that the aldol condensa-
+tion of PEP and E4P to produce 3-deoxy-D-arabino-
+heptulosonate 7-phosphate (DAHP) in a reaction catalysed by
+DAHP synthase is a rate limiting reaction.69–71
+The following steps to generate the nal product of the shi-
+kimate pathway, chorismate (CHA), are typically supported by
+individual monofunctional enzymes in plants and E. coli,
+including 3-dehydroquinate synthase (Dhps), 3-dehydroquinate
+dehydratase (Dqd), shikimate dehydrogenase (Sdh), shikimate
+kinase (Sk), 5-enolpyruvate-shikimate-3-phosphate synthase
+(Epsp synthase) and chorismate synthase (CS), whereas in
+Saccharomyces cerevisiae, a penta-functional protein (Arom) can
+directly catalyse the reaction of DAHP to 5-enolpyruvylshikimate-
+3-phosphate (EPSP).72,73 As a key branching point of the primary
+metabolic pathway to make aromatic amino acids, CHA rstly
+forms prephenate (PPA) in a reaction catalysed by chorismate
+mutase (Cm). The subsequent conversion to Phe and Tyr occurs
+via two routes in plants. One is conserved in both plants and
+microorganisms, where PPA catalyses the synthesis of L-Phe by
+prephenate dehydratase (Pdt) and phenylpyruvate aminotrans-
+ferase (Ppy-at) or L-Tyr by prephenate dehydrogenase (Pdh) and 4-
+hydroxyphenylpyruvate aminotransferase (Hpp-at). PPA is con-
+verted to L-arogenate (AGN) by prephenate aminotransferase
+(Ppa-at), which is then converted in reactions catalysed by
+arogenate dehydratase (Adt) or arogenate dehydrogenase (Adh) to
+74,75
+L-Phe or L-Tyr, respectively.
+The biosynthetic pathway producing simple phenyl-
+propanoids that occurs in plants has been heterologously
+established in microorganisms—the specic pathways involved
+are described in the following section. The conversion of L-Phe
+to t-CA is catalysed by phenylalanine ammonia-lyase (Pal).
+Studies have demonstrated that the broad substrate spectrum
+of Pal includes L-Phe and L-Tyr, and that the reverse reaction to
+76
+L-Phe can also be catalysed by Pal in the presence of ammonia.
+t-CA is modied by the hydroxylation and methylation of the
+aromatic ring, giving rise to hydroxycinnamic acids. Among
+these, p-HCA can also be directly formed from the deamination
+of L-Tyr by the bifunctional Phe/Tyr ammonia-lyase (PTal)
+enzyme from monocot grasses of the Poaceae family, or from
+some bacterial and fungal species.77 The enzyme 4-coumarate-
+CoA ligase (4Cl) catalyses the conversion of phenylpropanoic
+acids to the coenzyme A (CoA) thioesters, which are then con-
+verted to the corresponding aldehydes by cinnamoyl-CoA
+reductase (Ccr), and subsequently to phenylpropanols by cin-
+namyl alcohol dehydrogenase (Cad), and simple coumarins by
+2-oxoglutarate-dependent dioxygenase (2Ogd). Furthermore,
+simple phenylpropanoids are considered basic building blocks
+for downstream decorations to produce large quantities of
+secondary metabolites, such as avonoids, stilbenes, lignans,
+polyphenols, and condensed tannins.65 These complex phenyl-
+propanoids and their derivatives have various biological and
+commercial values and are being intensively evaluated.78
+
+![21.png]()
+
+As the compounds connecting the microbial innate pathway
+and the plant allogenic pathway, L-Phe and L-Tyr obtain carbon
+uxes from the central carbon metabolic and shikimate path-
+ways for the synthesis of simple phenylpropanoids (Fig. 2).
+Reprogramming the primary metabolic ux to AAAs (L-Phe and
+L-Tyr) is the basis for the high-level synthesis of simple phe-
+nylpropanoids. Therefore, the construction of a microbial cell
+factory for the eﬃcient synthesis of simple phenylpropanoids
+requires two steps: construction of an AAA high-producing
+chassis (Fig. 3) and introduction and optimization of simple
+phenylpropanoid pathways (Fig. 4).
+Multilevel metabolic engineering strategies have been studied to
+overproduce AAAs (L-Phe and L-Tyr), such as rewiring central
+carbon metabolism, relieving negative regulation, eliminating
+by-product formation, and engineering transport processes
+(Fig. 3). To rewire the central carbon ux towards the AAA
+pathway, an improved supply of PEP and E4P is required. The
+PPP is the exclusive pathway for glucose conversion to E4P, and
+its optimization is crucial for E4P supply. Since S. cerevisiae tends
+to quickly introduce metabolic ux into glycolysis for ethanol
+fermentation under anaerobic conditions and limits PPP, the
+deciency of E4P is a major problem.79 In addition, E4P has been
+reported to be the primary limiting substrate for AAA biosyn-
+thesis in some bacteria, such as E. coli, B. subtilis, and Coryne-
+bacterium glutamicum.80–82 In S. cerevisiae, the optimization
+strategy for PPP depends on cell culture conditions because the
+upstream (Zwf and Gnd) and downstream (Tkl and Tal) enzymes
+of PPP are rate-limiting steps for E4P synthesis under high- and
+low-glucose concentrations, respectively.83 Therefore, diﬀerent
+strategies should be used for PPP optimization to accommodate
+the use of high- and low-glucose-induced promoters.83–85 A novel
+PHK pathway consisting of phosphoketolase (Xfpk) can split
+xylose 5-phosphate (X5P) and/or fructose 6-phosphate (F6P) into
+acetyl-phosphate and glyceraldehyde-3-phosphate (G3P)/E4P,
+which is critical for rewiring the carbon metabolism of glycol-
+ysis into E4P.86 Therefore, simultaneous expression of Xfpk, Tal,
+and Tkl can signicantly increase the metabolic ux towards E4P
+in S. cerevisiae.83 Although S. cerevisiae is not able to use xylose as
+a sole carbon source, it is clear that metabolic ux enters the PPP
+faster for E4P synthesis when xylose is used, which may be useful
+in further improving the E4P supply in yeast.87 In contrast with
+E4P, carbon ow towards PEP is usually suﬃcient because of its
+important position in glycolysis. Construction of a non-PTS route
+in E. coli has been proven to avoid PEP loss for glucose transport,
+(>50%), thereby supporting the synthesis of downstream AAA.88
+The availability of PEP and E4P can also be improved by
+adjusting the activity of precursor pathway enzymes, such as by
+deletion of pyruvate kinases (encoded by PYKA and PYKF), or by
+over-expression of PEP synthase (encoded by PPSA), trans-
+ketolase (encoded by TKTA) and/or transaldolase (encoded by
+TALB).89–91 It is reasonable that the carbon ux between PEP and
+E4P is signicantly diﬀerent, thus it is essential to balance the
+availability of E4P and PEP (increase E4P and decrease PEP) to
+maintain high productivity. Promoter engineering by ne-tuning
+the strength of glycolysis and PEP alleviated this limitation in S.
+cerevisiae.92,93
+
+to facilitate product synthesis. In E. coli, the bifunctional enzyme
+(YdiB) was replaced by the monofunctional enzyme (AroE) to
+reduce the by-product formation of quinate in the shikimate
+pathway.94 In S. cerevisiae, increased ux in the AAA biosynthetic
+pathway results in the accumulation of undesired fusel alcohol/
+acids via the Ehrlich pathway, which can be relieved by
+a double knock-out of phenylpyruvate decarboxylase (Aro10) and
+pyruvate decarboxylase (Pdc5).95 Interestingly, a recent report has
+found that the deletion of a novel gene HTZ1 signicantly
+increased the tyrosine-producing capacity of yeast cells, although
+the underlying mechanism remains to be elaborated.96 Primary
+metabolism is strictly regulated by microorganisms, including
+yeasts. At the enzyme activity level, metabolic ux is controlled
+mainly by AAA-mediated feedback inhibition in the rst and post-
+chorismate steps in the above-mentioned biosynthetic pathways.
+By protein structure analysis with site directed mutagenesis, the
+feedback-resistant (r) variants such as aro4K229L and aro7G141S
+have been widely utilized in S. cerevisiae to eliminate the allo-
+steric regulation for the enhancement of the corresponding AAAs
+and derived metabolites.71,97,98 CSRA, encoding the carbon-
+storage regulator of E. coli, regulates enzymes in glycolysis, and
+over 2- fold increase in yield of L-Phe were achieved when CsrA
+was disrupted.99 TyrR is the tyrosine repressor that negatively
+regulate several genes transcription of Tyr-producing pathway in
+E. coli, and inactivation of TyrR led to an increase in the L-Tyr
+biosynthesis.100,101 Transport engineering contributes to strain
+development by addressing substrate uptake and product output,
+as well as loss of intermediates. The tyrosine-specic transporters
+TyrP and TyrR were mutated in E. coli overexpressing aroGDr,
+aroL and tyrC, leading to a maximum L-Tyr titre of 43.14 g L−1 by
+fed-batch fermentation.102
+Notably, the regulation of cell growth and highly tailored
+production should be carried out in an optimal and sustainable
+manner. A synthetic RNA (sRNA) strategy was employed in E.
+coli to ne-tune target gene expression, which could coordinate
+the ux balance between L-Tyr production and biomass accu-
+mulation.103 Adaptive laboratory evolution could also be useful
+as a way of enhancing the robustness of engineered strains. A
+Pseudomonas putida S12 mutant strain highly accumulating L-
+Phe was successfully screened by a combination of random
+mutagenesis and selection of toxic analogs.104 Recently, with the
+aid of biosensors as a high-throughput screening tool,
+recombinant strains with the desired properties for enhanced
+AAAs are likely to be identied in high eﬃciency.105,106
+Researchers have explored the potential of non-conventional
+microbial chassis to generate AAAs, such as Yarrowia lipolytica
+and C. glutamicum, which have been an attractive platform
+optimized for aromatic compounds production.107,108
+
+![22.png]()
+
+Cinnamic acid is the
+non-oxidative deamination product of L-Phe in a reaction cata-
+lysed by Pal and mostly occurs in the trans conguration (t-CA)
+(Fig. 4). Pal is the starting and limiting enzyme in the simple
+phenylpropanoids biosynthetic pathway, hence much eﬀort has
+been made in identifying high-eﬃciency alternative enzymes
+for functional expression in heterologous microbes.109,110 The
+production titre of t-CA reached 6.9 g L−1 by heterologous
+expression of an eﬃcient SmPal from Streptomyces maritimus in
+an engineered L-Phe-overproducing E. coli, together with culti-
+vation optimization and casamino acid supplementation in a 2
+litre bioreactor.111 In order to further optimize the catalytic
+function of SmPal, the combination of a SmPal-based whole-cell
+biocatalyst in C. glutamicum and a crossow membrane-based
+cell recycling system was designed to produce t-CA from L-Phe
+with a yield of 75% (0.75 mol mol−1).112 An alternative pathway
+harbouring a phenyllactate dehydratase encoded by FLDABCI
+genes from Clostridium sporogenes was developed for additional
+t-CA production from D-phenyllactate (Fig. 4), which exceeded
+the Pal-dependent pathway to achieve an 11-fold increase in t-
+CA yield.113 Most recently, a high-density culture system of the
+cyanobacterium Synechocystis sp. PCC 6803 successfully
+synthesized approximately 0.8 g L−1 t-CA from CO2 as the
+carbon source,114 which indicates that exploiting the primary
+metabolism of cyanobacteria has great potential for the green
+and sustainable production of phenylpropanoids. As the cyto-
+toxicity of t-CA impairs cell proliferation, researchers have
+found that near-neutral culture pH and alcoholic carbon source
+might be useful to improve the cellular tolerance to t-CA
+inhibition.115
+
+Simple
+phenyl-
+propanoic aldehydes include cinnamaldehyde, p-coumar-
+aldehyde,
+caﬀeoylaldehyde,
+coniferaldehyde,
+and
+sinapaldehyde. Phenylpropanoic aldehydes are produced from
+phenylpropanoic acids by the actions of two enzymes, 4Cl and
+Ccr, in which the CoA thioester of the 4Cl products is converted
+to an aldehyde group using NADPH (Fig. 4). The co-expression
+of three plant enzymes Pal, 4Cl, and Ccr in E. coli achieved
+cinnamaldehyde production from L-Phe.161 The fusion of 4Cl1-
+Ccr was functionally overexpressed in E. coli to construct
+a metabolic channel for improved production of p-coumar-
+aldehyde, caﬀealdehyde and coniferaldehyde from feedstocks
+consisting of the corresponding phenylpropanoic acids.162 In
+addition, a novel microbial pathway consisting of an aryl
+carboxylic acid reductase (Car) and a phosphopantetheinyl
+transferase (EntD) were shown to synthesize cinnamaldehyde
+from t-CA without the presence of plant 4Cl. The de novo
+biosynthesis of cinnamaldehyde was carried out in L-Phe-
+overproducing S. cerevisiae using glucose as a substrate.163
+Although the de novo biosynthesis of cinnamaldehyde was
+achieved in a strain of S. cerevisiae producing high levels of L-
+Phe, cell growth was aﬀected by the concentration of cinna-
+maldehyde, and some unanticipated metabolites such as cin-
+namyl alcohol were detected in the fermentation broth. The
+toxicity of aldehyde chemicals is harmful to the growth and
+metabolism of microbes, which provides a reasonable expla-
+nation for the absence of natural accumulation of aldehydes in
+microorganisms.164 In contrast, the endogenous Aldh and
+alcohol dehydrogenase (Adh) in S. cerevisiae are thought to be
+spontaneously involved in the reversible conversion of
+aldehydes to alcohols and acids and are associated with sugar
+metabolism.165 Therefore, the spontaneous conversion from
+cinnamaldehyde to cinnamyl alcohols may be explained by
+a cellular Adh/Aldh-related detoxication mechanism, which
+could be an important target for further optimization to
+increase the production of aldehydes. By knocking out 10
+endogenous Adh and Aldh enzymes and using some necessary
+engineering strategies, such as changes to cofactor supply,
+enzyme expression enhancement, auto-induction systems,
+and engineered E. coli, a maximum cinnamaldehyde titre of
+3.8 g L−1 was achieved using glucose.166
+
+![23.png]()
+
+Driven by the important applications of simple phenyl-
+propanoids, either because of their wide bioactivity or as
+precursors for the synthesis of complex natural product mole-
+cules, great progress has been achieved in the microbial
+production of simple phenylpropanoids (Table S1 provided as
+an attachment).† Although many simple phenylpropanoids
+have been synthesised at the g L−1 level in microorganisms with
+considerable engineering endeavours over the past 20 years,
+their titre, yield, and productivity (TYP) still require improve-
+ment to achieve industrial production. Some challenges that
+limit the high-level synthesis of simple phenylpropanoids must
+be addressed. Based on the three-dimensional metabolic engi-
+neering strategy proposed in the previous study,11 here we map
+these challenges to an upgraded four-dimensional metabolic
+engineering strategy (i.e., “point-line-plane-system”), and
+suggest a potential technical proposal to meet these challenges
+
+(i) The “Point” level: the unsatised enzyme activity and
+cofactor utilization. The catalytic promiscuity
+and low cofactor utilisation of enzymes in the simple phenyl-
+propanoid pathway are key issues hindering synthetic eﬃ-
+ciency.
+
+
+(ii) The “Line” level: the imbalance of multi-pathway meta-
+bolic uxes.
+Simple phenylpropanoids are derived from two AAAs (L-Phe
+and L-Tyr) condensed from two endogenous intermediates, i.e.,
+E4P from PPP and PEP from glycolysis. Therefore, an equal
+supply of E4P and PEP is advantageous for the synthesis of
+simple phenylpropanoids.
+
+(iii) The “plane” level: the weakness of cell performance.
+
+(iv) The “system” level:
+
+![24.png]()
+
+
+
+
+
+
+
+
 
 
 
