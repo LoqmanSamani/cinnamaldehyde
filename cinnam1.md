@@ -275,7 +275,7 @@ coli, together with endogenous alcohol dehydrogenases.
 
 ![19.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/19.png)
 
-9. [Simple phenylpropanoids: recent advances in biological activities, biosynthetic pathways, and microbial production]() - [9.pdf]()
+9. [Simple phenylpropanoids: recent advances in biological activities, biosynthetic pathways, and microbial production](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Simple+phenylpropanoids%3A+recent+advances+in+biological+activities%2C+biosynthetic+pathways%2C+and+microbial+production%E2%80%A0+Zhanpin+Zhu%2C+a+Ruibing+Chen+*a+and+Lei+Zhang&btnG=) - [9.pdf](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/literature/9.pdf)
 
 Simple phenylpropanoids are a group of secondary metabolites
 comprising a phenyl ring linked with a three-carbon side chain
