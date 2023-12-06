@@ -351,7 +351,7 @@ can improve mitochondrial function, reduce serotonin content
 and upregulate autophagy-mediated lipid clearance.55
 
 
-![20.png]()
+![20.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/20.png)
 
 The biosynthesis of simple phenyl-
 propanoids are derived from the aromatic amino acids (AAAs) L-
@@ -435,7 +435,7 @@ polyphenols, and condensed tannins.65 These complex phenyl-
 propanoids and their derivatives have various biological and
 commercial values and are being intensively evaluated.78
 
-![21.png]()
+![21.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/21.png)
 
 As the compounds connecting the microbial innate pathway
 and the plant allogenic pathway, L-Phe and L-Tyr obtain carbon
@@ -543,7 +543,7 @@ microbial chassis to generate AAAs, such as Yarrowia lipolytica
 and C. glutamicum, which have been an attractive platform
 optimized for aromatic compounds production.107,108
 
-![22.png]()
+![22.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/22.png)
 
 Cinnamic acid is the
 non-oxidative deamination product of L-Phe in a reaction cata-
@@ -622,7 +622,7 @@ enzyme expression enhancement, auto-induction systems,
 and engineered E. coli, a maximum cinnamaldehyde titre of
 3.8 g L−1 was achieved using glucose.166
 
-![23.png]()
+![23.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/23.png)
 
 Driven by the important applications of simple phenyl-
 propanoids, either because of their wide bioactivity or as
@@ -660,7 +660,7 @@ simple phenylpropanoids.
 
 (iv) The “system” level:
 
-![24.png]()
+![24.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/24.png)
 
 
 
