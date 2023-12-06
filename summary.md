@@ -25,3 +25,12 @@ There have been some undesirable aspects reported for trans-cinnamaldehyde that 
 
 ![27.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/27.png)
 
+
+4) An expression module based on a phenylalanine ammonia lyase-encoding gene from Streptomyces maritimus (SmPAL), which mediates the conversion of l-Phe into t-CA, was constructed in C. glutamicum.
+   Using the strong promoter ­PH36 and ribosome binding site (RBS) (in front of gene 10 of the T7 phage), and a high-copy number plasmid, SmPAL could be expressed to levels as high as 39.1% of the total proteins in C. glutamicum.
+   to improve t-CA production at an industrial scale, reaction conditions including temperature and pH were optimized; t-CA production reached up to 6.7 mM/h in a bioreactor under optimal conditions (50 °C and pH 8.5, using NaOH as base solution).
+   a recycling system was developed by coupling membrane filtration with the bioreactor, and the engineered C.glutamicum successfully produced 13.7 mM of t-CA (24.3 g) from 18.2 mM of l-Phe (36 g) and thus with a yield of 75% (0.75 mol/mol) through repetitive supplementation.
+
+   Generally, compared to the chemical synthesis-based production process, the production of whole-cell biocatalyst-based chemicals using microorganisms offers several advantages: (i) environmentally friendly production, (ii) high regioselectivity, and (iii) cofactor regeneration for multi-step reactions [20]. However, to achieve a high production yield in whole-cell biocatalyst-based production, a microorganism that can satisfy the following con- ditions is required: (i) being recognized as a safe host for production, (ii) high-cell density cultures, (iii) the ability to easily induce high expression of the genes coding for heterologous proteins, and (iv) maintenance of cell viability during harsh conditions, e.g., changes in temperature or pH [21, 22].
+
+   
