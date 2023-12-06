@@ -16,5 +16,12 @@ There have been some undesirable aspects reported for trans-cinnamaldehyde that 
 ![26.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/26.png)
 ![25.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/25.png)
 
-
+3) To prevent the preferable conversion of cinnamaldehyde to cinnamyl alcohol in wild-type Escherichia coli, the E. coli MG1655 strain with reduced aromatic aldehyde reduction (RARE) in which six aldehyde ketone reductase and alcohol dehydrogenase genes have been knocked out was employed. Then, the carboxylic acid reductase from Neurospora crassa (NcCAR) and phosphopantetheinyl transferase (PPTase) from E. coli were screened for a high conversion rate of cinnamic acid to cinnamaldehyde.
+   The process of synthesizing cinnamylamine by chemical synthesis is relatively mature and has a high conversion rate. But the way to chemically synthesize cinnamylamine usually requires conditions such as high temperature, high pressure and metal catalysts. It has the disadvantages of high energy consumption, environmental pollution and low safety [13–15].
    
+   Cinnamaldehyde has two biosynthetic pathways. In the first, phenylalanine lyase catalyzes the generation of cinnamic acid from phenylalanine that is produced by the shikimate pathway. Then, 4-coumaric acid: CoA ligase (4CL) catalyzes the formation of cinnamoyl-CoA from cinnamic acid, and then cinnamaldehyde is formed from cinnamoyl-CoA under catalysis by cinnamoyl CoA reductase (CCR) [16, 19–25]. In the other pathway, catalysis by carboxylic acid reductase (CAR) and phosphoubiquitin transferase (PPTase) reduces cinnamic acid into cinnamaldehyde [2, 17, 26–32]. cinnamaldehyde has been synthetized in E. coli, Saccharomyces cerevisiae, and Corynebacterium glutamicum [16–18].
+
+   The reduction of cinnamic acid to cinnamaldehyde can be synthesized by a two-step catalytic reaction, through cinnamoyl-CoA, using 4-coumarate: CoA ligase (4CL) and cinnamyl-CoA reductase (CCR), or it can be catalyzed in one step by carboxylic acid reductase (CAR).
+
+![27.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/27.png)
+
