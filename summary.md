@@ -13,8 +13,8 @@ There have been some undesirable aspects reported for trans-cinnamaldehyde that 
     
     In this study, we engineered E.Coli for the production of cinnamaldehyde. Three biosynthetic enzymes, PAL, 4CL and CCR were cloned into E.Coli. We also manipulated metabolic pathways in E.Coli to increase the intracellular pool of l-phenylalanine.
     
-    ![26.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/26.png)
-    ![25.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/25.png)
+![26.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/26.png)
+![25.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/25.png)
 
 
    
