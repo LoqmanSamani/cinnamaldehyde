@@ -664,7 +664,7 @@ simple phenylpropanoids.
 
 
 
-9. [High-level production of trans-cinnamic acid by fed-batch cultivation of Escherichia coli](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=High-level+production+of+trans-cinnamic+acid+by+fed-batch+cultivation+of+Escherichia+coli&btnG=). [10.pdf]()
+10. [High-level production of trans-cinnamic acid by fed-batch cultivation of Escherichia coli](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=High-level+production+of+trans-cinnamic+acid+by+fed-batch+cultivation+of+Escherichia+coli&btnG=). [10.pdf]()
 
 Trans-cinnamic acid is a phenylpropanoid that is widely used in cosmetics, anti-bacterial compounds, anti-
 cancer, and ﬂavoring agents. Previously, we succeeded in the generation of L-phenylalanine-high producing
@@ -724,7 +724,7 @@ structure of SmPAL is not reported yet, the similar model can be used
 for mutagenesis, and by combination of enzyme engineering and me-
 tabolic engineering, production titer would be improved [41].
 
-![28.png]()
+![28.png](https://github.com/LoqmanSamani/cinnamaldehyde/blob/systembiology/images/28.png)
 
 
 
