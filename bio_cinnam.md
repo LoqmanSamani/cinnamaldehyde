@@ -664,6 +664,73 @@ simple phenylpropanoids.
 
 
 
+9. [High-level production of trans-cinnamic acid by fed-batch cultivation of Escherichia coli](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=High-level+production+of+trans-cinnamic+acid+by+fed-batch+cultivation+of+Escherichia+coli&btnG=). [10.pdf]()
+
+Trans-cinnamic acid is a phenylpropanoid that is widely used in cosmetics, anti-bacterial compounds, anti-
+cancer, and ﬂavoring agents. Previously, we succeeded in the generation of L-phenylalanine-high producing
+Escherichia coli strain by metabolic engineering of the L-phenylalanine biosynthesis pathway. Using this en-
+gineered strain, in this study, we developed an E. coli platform for the enhanced production of trans-cinnamic
+acid that can be generated from L-phenylalanine by phenylalanine ammonia-lyase (PAL)-mediated deamination
+reaction. To increase the production titer of trans-cinnamic acid, three diﬀerent promoters and four diﬀerent
+nutrient solutions were examined and, using the optimized system (gene expression under Trc promoter and
+supplementation of casamino acid), we achieved the production of trans-cinnamic acid as high as 697 mgL−1 in
+shake ﬂask cultivation. Finally, pH-stat fed-batch fermentations were performed in a lab-scale (2 L) bioreactor
+with three diﬀerent feeding solutions (glucose, yeast extract, and casamino acid). When casamino acid was
+supplied as feeding solution, the production of trans-cinnamic acid as high as 6.9 gL−1 was achieved.
+
+Trans-cinnamic acid (also called 3-phenylprop-2-enoic acid) is the
+major naturally occurring phenolic compound in plants that serves as a
+precursor of various phenylpropanoids such as lignin and ﬂavonoids
+[1]. Further, it has broad biological activities including use in ﬂavoring
+agents, anti-bacterial compounds, anti-cancer, cosmetics, and pharma-
+ceuticals especially for the treatment of malaria [2–5]. In addition,
+trans-cinnamic acid is regarded as ‘Generally Recognized as Safe’
+compound by the Food and Drug Administration (FDA), enabling its use
+as a food additive [6]. Furthermore, trans-cinnamic acid can be con-
+verted to various high-value compounds such as styrene, p-hydro-
+xycinnamic acids, cinnamaldehyde, and caﬀeic acid, which have been
+widely used as materials for preparing fragrances for cosmetics, anti-
+nematode agents, thermoplastics, and pharmaceuticals (Fig. 1A) [7].
+
+In the natural biosynthesis,
+trans-cinnamic acid can be synthesized from L-phenylalanine. The L-
+phenylalanine is synthesized de novo through the shikimate pathway,
+which is a major source of cellular aromatic compounds, and it is
+deaminated to trans-cinnamic acid by the phenylalanine ammonia-lyase
+(PAL), which catalyzes non-oxidative deamination of ammonia from L-
+phenylalanine (Fig. 1B). With the evolved and various metabolic en-
+gineering strategies, various microorganisms such as Escherichia coli,
+Streptomyces lividans, Saccharomyces cerevisiae, and Pseudomonas putida
+have been used to produce trans-cinnamic acid as high as 0.8 gL−1
+[7,12–17]
+
+Recently, Masuo et al. reported an alternative pathway
+using D-phenyllactate instead of L-phenylalanine to produce trans-cin-
+namic acid without PAL enzyme, and much improved production titer
+as high as 1.7 gL−1 was achieved, which is the highest record in a
+microbial production system [18].
+
+Herein, we developed an E. coli platform for the enhanced produc-
+tion of trans-cinnamic acid. Using the optimized expression system and
+casamino acid feeding solution, we achieved the production of trans-
+cinnamic acid as high as 6.9 gL−1 in fed-batch cultivation. To the best
+of our knowledge, this is the highest production titer obtained in mi-
+crobial production systems [7,18], and we believe that the engineered
+E. coli strain and the fermentation process can be major contributors in
+the commercial production of trans-cinnamic acid in the bio-industry.
+To further increase the productivity of trans-cinnamic acid, we also
+consider the engineering of key enzyme (SmPAL). Although the crystal
+structure of SmPAL is not reported yet, the similar model can be used
+for mutagenesis, and by combination of enzyme engineering and me-
+tabolic engineering, production titer would be improved [41].
+
+![28.png]()
+
+
+
+
+
+
 
 
 
