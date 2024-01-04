@@ -6,11 +6,10 @@ import pandas as pd
 
 
 ```python
-# Table to store pathways information
 paths = pd.DataFrame({
     "ID": ["CA 1", "CA 2", "CA 3", "CA 4", "CA 5", "CIN-ALD"],
-    "Reaction": ["Molanic Acid + Benzaldehyde --> Cinnamic Acid ",
-                  "Bromobenzene + Acrilic Acid --> Cinnamic Acid",
+    "Reaction": ["Malanic Acid + Benzaldehyde --> Cinnamic Acid ",
+                  "Bromobenzene + Acrylic Acid --> Cinnamic Acid",
                   "Iodobenzene + Acrilic Acid  --> Cinnamic Acid",
                   "Cinnamon Alcohol --> Cinnamic Acid",
                   "L-Phenylalanine --> Cinnamic Acid",
@@ -30,7 +29,6 @@ paths = pd.DataFrame({
                  "Phenylalanine Ammonia Lyase",
                  "carboxylic acid reductase (CAR) and phosphoubiquitin transferase(PPTase)"]
 })
-
 paths
 ```
 
@@ -65,14 +63,14 @@ paths
     <tr>
       <th>0</th>
       <td>CA 1</td>
-      <td>Molanic Acid + Benzaldehyde --&gt; Cinnamic Acid</td>
+      <td>Malanic Acid + Benzaldehyde --&gt; Cinnamic Acid</td>
       <td>Piperidine</td>
       <td>None</td>
     </tr>
     <tr>
       <th>1</th>
       <td>CA 2</td>
-      <td>Bromobenzene + Acrilic Acid --&gt; Cinnamic Acid</td>
+      <td>Bromobenzene + Acrylic Acid --&gt; Cinnamic Acid</td>
       <td>Tributylamine, Tetrabutylammonium bromide</td>
       <td>Palladium</td>
     </tr>
@@ -112,19 +110,18 @@ paths
 
 
 ```python
-# Table to store molecule information
-mol = pd.DataFrame({"ID": ["Mol 1", "Mol 2", "Mol 3", "Mol 4", "Mol 5", "Mol 6", "Mol 7", "Mol 8"],
+mol = pd.DataFrame({
+    "ID": ["Mol 1", "Mol 2", "Mol 3", "Mol 4", "Mol 5", "Mol 6", "Mol 7", "Mol 8", "Mol 9"],
 
-                    "Name": ["Benzaldehyde", "Cinnamic Acid",
-                             "Molanic Acid", "Acrilic Acid",
-                             "Brombenzene", "Iodobenzene",
-                             "Cinnamon Alcohol", "L-Phenylalanine"],
+    "Name": ["Benzaldehyde", "Cinnamic Acid", "Malanic Acid", "Acrylic Acid",
+             "Brombenzene", "Iodobenzene", "Cinnamon Alcohol", "L-Phenylalanine",
+                             "Acetic anhydride"],
 
-                    "Price (per Kg or Liter)": ["48 € l", "134 € kg",
-                                                "128 € kg", "2 € kg",
-                                                "76 € kg", "547 € kg",
-                                                "85 € kg", "503 € kg"]
-                    })
+    "Price (per Kg or Liter)": ["45.60 € l", "152.00 € kg", "120.00 € kg", "111.00 € kg",
+                                "115.00 € kg", "269.00 € 0.25 l", "61.90 € 0.5 kg", "717.00 € kg",
+                                "47.20 € l"]
+})
+
 mol
 ```
 
@@ -159,49 +156,141 @@ mol
       <th>0</th>
       <td>Mol 1</td>
       <td>Benzaldehyde</td>
-      <td>48 € l</td>
+      <td>45.60 € l</td>
     </tr>
     <tr>
       <th>1</th>
       <td>Mol 2</td>
       <td>Cinnamic Acid</td>
-      <td>134 € kg</td>
+      <td>152.00 € kg</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Mol 3</td>
-      <td>Molanic Acid</td>
-      <td>128 € kg</td>
+      <td>Malanic Acid</td>
+      <td>120.00 € kg</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Mol 4</td>
-      <td>Acrilic Acid</td>
-      <td>2 € kg</td>
+      <td>Acrylic Acid</td>
+      <td>111.00 € kg</td>
     </tr>
     <tr>
       <th>4</th>
       <td>Mol 5</td>
       <td>Brombenzene</td>
-      <td>76 € kg</td>
+      <td>115.00 € kg</td>
     </tr>
     <tr>
       <th>5</th>
       <td>Mol 6</td>
       <td>Iodobenzene</td>
-      <td>547 € kg</td>
+      <td>269.00 € 0.25 l</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Mol 7</td>
       <td>Cinnamon Alcohol</td>
-      <td>85 € kg</td>
+      <td>61.90 € 0.5 kg</td>
     </tr>
     <tr>
       <th>7</th>
       <td>Mol 8</td>
       <td>L-Phenylalanine</td>
-      <td>503 € kg</td>
+      <td>717.00 € kg</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Mol 9</td>
+      <td>Acetic anhydride</td>
+      <td>47.20 € l</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+reaction = pd.DataFrame({
+
+    "Reaction": ["Benzaldehyde + Acetic anhydride -> Cinnamic acid",
+                  "Benzaldehyde + Malonic Acid --> Cinnamic Acid ",
+                  "Bromobenzene + Acrylic Acid --> Cinnamic Acid",
+                  "Iodobenzene + Acrylic Acid  --> Cinnamic Acid",
+                  "Cinnamon Alcohol --> Cinnamic Acid",
+                  "L-Phenylalanine --> Cinnamic Acid",
+                  "Cinnamic Acid --> Cinnamaldehyde"],
+
+    "Price": ["45.60 + 47.20 = 92.8", "45.60 + 120 = 165.60", "115 + 111 = 226",
+              "(269*4) + 111 = 1187", "123.8", "717", "152"]
+
+})
+reaction
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Reaction</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Benzaldehyde + Acetic anhydride -&gt; Cinnamic acid</td>
+      <td>45.60 + 47.20 = 92.8</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Benzaldehyde + Malonic Acid --&gt; Cinnamic Acid</td>
+      <td>45.60 + 120 = 165.60</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Bromobenzene + Acrylic Acid --&gt; Cinnamic Acid</td>
+      <td>115 + 111 = 226</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Iodobenzene + Acrylic Acid  --&gt; Cinnamic Acid</td>
+      <td>(269*4) + 111 = 1187</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Cinnamon Alcohol --&gt; Cinnamic Acid</td>
+      <td>123.8</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>L-Phenylalanine --&gt; Cinnamic Acid</td>
+      <td>717</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Cinnamic Acid --&gt; Cinnamaldehyde</td>
+      <td>152</td>
     </tr>
   </tbody>
 </table>
